@@ -1,0 +1,3 @@
+# Intial Task
+
+To begin your internship, you'll need a working Python environment that supports virtual environments...
